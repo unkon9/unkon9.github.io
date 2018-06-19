@@ -1,0 +1,17 @@
+h1{
+    color:white;
+    background:rgb(172,228,247);
+    width:150px;
+    height:1100px;
+    float:left;
+    margin:0px;
+    text-align:center;
+}
+span{
+    font-weight:bold;
+}
+li {
+    display:inline-block;
+    height:20px;
+    width:260px;
+}

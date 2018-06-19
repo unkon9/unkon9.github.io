@@ -1,0 +1,8 @@
+span{
+    font-weight:bold;
+}
+li{
+    dispaly:inline-block;
+    height:20px;
+    width:260px;
+}
