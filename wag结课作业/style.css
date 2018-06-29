@@ -1,0 +1,80 @@
+body{background-color: black;}
+.jumbotron{
+    background: url(images/timg.jpg) no-repeat center center;
+    border-radius: 0;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 260px;
+    }
+.box{
+    margin: 0%;
+    border:0px;
+    background:white;
+    padding: 5%;
+    font-size: 30px;
+     }
+h2{
+    color:rgb(255, 255, 255);line-height: 80px;
+     }
+.box2{margin: 0%;
+    border:0px;
+    background:white;
+    padding: 5%;
+    }
+.box3{color: black;height: 150px;}
+.box4{margin: 0%;
+    border:0px;
+ background:white;
+ padding: 3%;
+        }
+h1{color: black;}
+
+.p-hover:hover{
+    width: 80%;
+    background: yellow;
+    opacity: 0.5;
+    box-shadow: 10px 10px 5px #888888;
+}
+.p2-hover:hover{
+    width: 80%;
+    background: rgb(28, 233, 240);
+    opacity: 0.5;
+    box-shadow: 10px 10px 5px #888888;
+}
+.ding{
+    position: relative;
+}
+.wei{
+    position: absolute;
+    top:6px;
+    left: 380px;
+    z-index: 1;
+}
+.content{
+    width: 697px;
+    height:451px;
+    overflow: hidden;
+    position: relative;
+  }
+  .img-hover{
+    position: absolute;
+    width: 697px;
+    height:451px;
+    background: red;
+    top:0;
+    opacity: 0;
+  }
+  .img-hover:hover{
+      opacity: 0.5;
+ }
+ .sss{margin: 0%;
+    border:0px;
+    background:white;
+    padding:7%;
+    font-size: 30px;  }
+    .footer{background-color: black
+    }
